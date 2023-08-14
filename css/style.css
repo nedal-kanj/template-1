@@ -274,7 +274,7 @@ font-size: 16px;
 }
 .info-section{
     height: 300px;
-    background-image: url(/imgs/cta-bg.jpg);
+    background-image: url(../imgs/cta-bg.jpg);
 }
 .info-section .box{
     top: 25%;
@@ -393,7 +393,7 @@ font-size: 16px;
 }
 .section-form{
     height: 650px;
-    background-image: url(/imgs/calculator-bg.jpg);
+    background-image: url(../imgs/calculator-bg.jpg);
 }
 .section-form .box-form h5{
     color: var(--main-color);
@@ -527,27 +527,8 @@ span.swiper-pagination-bullet{
 .rights h6 a:hover{
     color: rgb(64, 64, 170);
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 .heading-img{
-    background-image: url(/imgs/heading-bg.jpg);
+    background-image: url(../imgs/heading-bg.jpg);
     height: 410px;
     background-position: center;
 }
